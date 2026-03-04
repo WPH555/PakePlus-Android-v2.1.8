@@ -1,0 +1,9 @@
+{
+  "name": "海空智擎 AeroMarinX",
+  "description": "基于六自由度稳降与机器视觉的海空协同作业系统控制终端",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
